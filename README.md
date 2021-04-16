@@ -1,2 +1,2 @@
 # apartment-finder
-hej
+https://juliuswillen.github.io/apartment-finder/
